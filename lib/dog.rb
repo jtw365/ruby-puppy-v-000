@@ -13,6 +13,4 @@ attr_accessor :name
       puts song.name
     end
   end
-
-
 end
